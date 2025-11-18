@@ -31,3 +31,4 @@ Important
 
 - All bullets must have "Bullet" tag
 - Spawn area must be a trigger collider
+- MyUnityGunHW1 file is the entire project.
