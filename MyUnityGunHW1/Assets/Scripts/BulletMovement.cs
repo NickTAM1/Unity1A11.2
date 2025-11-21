@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class BulletMovement : MonoBehaviour
 {
-    [SerializeField] private float _bulletSpeed = 30f;
+    [SerializeField][Tooltip("Speed of the bullet impulse force")] private float _bulletSpeed = 30f;
 
     private Rigidbody _rb;
 
