@@ -1,4 +1,11 @@
-A simple FPS game where you shoot targets that spawn randomly.
+MyUnityGunHW1 is the entire project(without the Library folder)
+
+How to open
+
+- Open unity hub (project)
+- Add project from disk
+- Select MyUnityGunHW1
+- Open project
 
 Controls
 
@@ -19,6 +26,11 @@ Scripts
 
 - TargetSpawner.cs - Spawns targets in a random area
 
+Important
+
+- All bullets must have "Bullet" tag
+- Spawn area must be a trigger collider
+
 Setup(If need)
 
 1. Add PlayerController to player with Rigidbody
@@ -26,10 +38,5 @@ Setup(If need)
 3. Create grenade prefab with GrenadeMovement + Rigidbody
 4. Create target prefab with TargetCube + Collider
 5. Add TargetSpawner with Box Collider (set as trigger)
-
-Important
-
-- All bullets must have "Bullet" tag
-- Spawn area must be a trigger collider
 
 GitHub: https://github.com/NickTAM1/Unity1A11.2.git
