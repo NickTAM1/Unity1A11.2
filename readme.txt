@@ -6,6 +6,7 @@ How to open
 - Add project from disk
 - Select MyUnityGunHW1
 - Open project
+- After open the project, go to Assets/Scenes and choose Gun and play
 
 Controls
 
@@ -29,7 +30,7 @@ Scripts
 Important
 
 - All bullets must have "Bullet" tag
-- Spawn area must be a trigger collider
+- Spawn area must be a trigger colliderd
 
 Setup(If need)
 
